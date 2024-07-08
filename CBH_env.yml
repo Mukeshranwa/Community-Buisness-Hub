@@ -1,0 +1,7 @@
+name: CBH_env
+
+dependencies:
+  - python = 3.11.3
+  - pandas
+  - scikit-learn
+  - sqlalchemy
